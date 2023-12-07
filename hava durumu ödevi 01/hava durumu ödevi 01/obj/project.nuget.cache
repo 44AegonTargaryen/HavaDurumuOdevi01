@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dAjgxnZupfUGK9FUi4MdAScVyIa8OuCSeHKOpxb8RosmxEBbu6ALuBDqgdTO0P4hpizLF//H+wjiwA8MbQyHGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\merto\\source\\repos\\hava durumu ödevi 01\\hava durumu ödevi 01\\hava durumu ödevi 01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\merto\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
